@@ -37,9 +37,9 @@ Wands, clothing, other items to perform magic (runes, books, crystals, etc.)
 + Narration system
 
 ## Concept:
-You can pick a guild, type of magic, class and profession.
-You can choose to play without a guild. (no guild rules to abide, but no guild benefits either)
-After you've set up your character, you can roam the world, interact with things and players.
-Gain EXP by doing things.
-Obtain modifiers through EXP. Modifiers can be sold to players.
-AO: G aims for a high level of customization.
+You can pick a guild, type of magic, class and profession.\
+You can choose to play without a guild. (no guild rules to abide, but no guild benefits either)\
+After you've set up your character, you can roam the world, interact with things and players.\
+Gain EXP by doing things.\
+Obtain modifiers through EXP. Modifiers can be sold to players.\
+AO: G aims for a high level of customization.\
