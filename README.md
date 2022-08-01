@@ -42,4 +42,4 @@ You can choose to play without a guild. (no guild rules to abide, but no guild b
 After you've set up your character, you can roam the world, interact with things and players.\
 Gain EXP by doing things.\
 Obtain modifiers through EXP. Modifiers can be sold to players.\
-AO: G aims for a high level of customization.\
+AO: G aims for a high level of customization.
