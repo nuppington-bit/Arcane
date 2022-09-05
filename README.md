@@ -1,4 +1,4 @@
-# Arcane-Oath-Genesis
+# Arcane
 
 AO: G is a system that can be used for magic RP in Discord.
 
