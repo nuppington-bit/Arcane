@@ -1,6 +1,6 @@
 # Arcane
 
-AO: G is a system that can be used for magic RP in Discord.
+Arcane is a system that can be used for magic RP in Discord.
 
 ### Current Guilds:
 + The Black Guild (the bad guys)
@@ -23,6 +23,15 @@ Modifiers can be used to change, combine and upgrade stats of items, spells and 
 
 ### Items:
 Wands, clothing, other items to perform magic (runes, books, crystals, etc.)
+
+### Farming, gathering:
+Active farming to get 100% XP and 100% materials, idle farming to get 10% XP and 25% materials, but can run over night for example
+
+### Crafting:
+Same as farming, but when crafting, you always get 100% of the items crafted
+
+### Multi chars:
+Multiple characters allowed per discord account and smooth, fast switching mechanisms
 
 ### World:
 + Player housing
