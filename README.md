@@ -1,12 +1,9 @@
 # Arcane
 
-Arcane is a system that can be used for magic RP in Discord.
+Arcane is a concept for a text-based multiplayer RPG
 
 ### Current Guilds:
-+ The Black Guild (the bad guys)
-+ The White Guild (the good guys)
-+ The Grey Guild (somewhere in between)
-+ The Golden Guild (church, law enforcement, administration)
++ See guilds.md
 
 ### Current types of magic: 
 + Blue Magic (time and space, control over weather and the elements)
@@ -31,7 +28,7 @@ Active farming to get 100% XP and 100% materials, idle farming to get 10% XP and
 Same as farming, but when crafting, you always get 100% of the items crafted
 
 ### Multi chars:
-Multiple characters allowed per discord account and smooth, fast switching mechanisms
+Multiple characters allowed per account with smooth, fast switching mechanisms
 
 ### World:
 + Player housing
@@ -40,7 +37,7 @@ Multiple characters allowed per discord account and smooth, fast switching mecha
 + Marketplace
 + Wilderness
 
-### Discord bot:
+### General stuff:
 + Website for character setup, inventory and spellbook
 + Commands for spells and player interactions
 + Narration system
@@ -51,4 +48,4 @@ You can choose to play without a guild. (no guild rules to abide, but no guild b
 After you've set up your character, you can roam the world, interact with things and players.\
 Gain EXP by doing things.\
 Obtain modifiers through EXP. Modifiers can be sold to players.\
-AO: G aims for a high level of customization.
+Arcane aims for a high level of customization.
