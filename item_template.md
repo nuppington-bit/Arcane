@@ -21,7 +21,6 @@ Here are a few examples:
     "itemSubType": "Pickaxe",
     "itemDescription": "This sturdy pickaxe is crafted from a shimmering, silver-white metal known as mithril. It is incredibly durable and lightweight, making it perfect for long mining sessions. The handle is reinforced with steel bands for added strength, and the head is sharp and well-balanced, able to dig through even the hardest rocks with ease. It is said to be indestructible and able to uncover valuable ore deposits that would remain hidden to lesser tools, making it a valuable tool for any member of The Gathers' Guild. The Mithril Pickaxe is a prized possession of any miner or treasure hunter, and is highly sought after by those who seek to excel in their profession."
 }
-
 ´´´
 
 ```json
@@ -31,7 +30,6 @@ Here are a few examples:
     "itemSubType": "Metal",
     "itemDescription": "Arctic Silver is a rare and highly prized metal that is said to be infused with the power of the eternal frost. It is pale blue in color, with a shimmering, icy finish that seems to radiate a chill even in the hottest of temperatures. When struck, it rings with a clear, bell-like tone. It is incredibly durable and resistant to both heat and cold, making it ideal for crafting weapons and armor that can withstand extreme conditions. Some say that it possesses magical properties, imbued with the ability to harness the power of ice and snow. Due to its rarity and unique properties, Arctic Silver is highly sought after by blacksmiths and enchanters in the realm. It is said that only the most skilled craftsmen can work with it, and that it is the mark of a true master to forge a weapon or piece of armor from this magical metal."
 }
-
 ```
 
 ```json
