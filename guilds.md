@@ -14,7 +14,7 @@ This guild is a secret society of powerful mages who are dedicated to the study 
 
 #### Guild benefits
 + Ability to use powerful magical staffs imbued with a wide range of magical abilities, as well as access to a vast library of magical knowledge and the opportunity to learn powerful spells from experienced mages.
-
+<br><br>
 
 
 ## The Circle of the Elements:
@@ -31,7 +31,7 @@ This guild is made up of mages who specialize in the manipulation of the element
 
 #### Guild benefits
 + Ability to wear magical rings that allow the wearer to control and harness the power of the elements, as well as access to a wide range of spells and abilities related to elemental magic.
-
+<br><br>
 
 
 ## The Artificers' Guild:
@@ -48,7 +48,7 @@ This guild is made up of skilled craftsmen who use their knowledge of science an
 
 #### Guild benefits
 + A set of advanced crafting tools and resources, as well as access to a wide range of technical knowledge and the opportunity to learn how to create a wide variety of items. 
-
+<br><br>
 
 
 ## The Enchanters' Guild:
@@ -65,7 +65,7 @@ This guild is made up of skilled artisans who use magic to imbue advanced device
 
 #### Guild benefits
 + A magical imbuing tool that allows the user to imbue objects with magical properties, as well as access to a wide range of enchantments and the opportunity to learn how to create powerful magical items.
-
+<br><br>
 
 
 ## The Necromancers' Circle:
@@ -82,7 +82,7 @@ This guild is made up of mages who specialize in the manipulation of death and t
 
 #### Guild benefits
 + A magical tome filled with powerful necromantic spells and knowledge, as well as the opportunity to learn how to raise and control the undead.
-
+<br><br>
 
 
 ## The Order of the White Wand:
@@ -99,7 +99,7 @@ This guild is a group of powerful healers and diviners who use magic to protect 
 
 #### Guild benefits
 + A powerful holy weapon imbued with divine magic, as well as access to a wide range of divine spells and abilities.
-
+<br><br>
 
 
 ## The Inquisitors' Guild:
@@ -116,7 +116,7 @@ This guild is a group of knights and squires who are trained in the use of magic
 
 #### Guild benefits
 + A set of advanced tracking and investigation tools, as well as access to a wide range of law enforcement resources and the opportunity to learn how to bring criminals to justice.
-
+<br><br>
 
 
 ## The Gathers' Guild:
@@ -133,7 +133,7 @@ This guild is made up of skilled hunters, foragers, and collectors who are respo
 
 #### Guild benefits
 + A set of advanced gathering tools and resources, as well as access to a wide range of knowledge about different types of materials and how to acquire them.
-
+<br><br>
 
 
 ## The Combatants' Guild:
@@ -150,7 +150,7 @@ This guild is made up of skilled warriors who specialize in various forms of com
 
 #### Guild benefits
 + A set of advanced combat training resources and access to a wide range of combat techniques and strategies.
-
+<br><br>
 
 
 # Connections and relationships between guilds
