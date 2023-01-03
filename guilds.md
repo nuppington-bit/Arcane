@@ -26,3 +26,14 @@ This guild is made up of skilled hunters, foragers, and collectors who are respo
 
 ## The Combatants' Guild:
 This guild is made up of skilled warriors who specialize in various forms of combat. Members of the Combatants' Guild are trained in the use of a wide range of weapons and tactics, and they are known for their ability to adapt to different combat situations. The guild is often called upon to provide security and protection to communities and organizations, and its members are respected for their bravery and combat expertise.
+
+# Connections and relationships between guilds
+
++ The Arcane Order often provides guidance to other guilds.
++ The Circle of the Elements often works with the Arcane Order to defend against threats.
++ The Artificers' Guild works with the Enchanters' Guild to imbue its creations with special powers.
++ The Necromancers' Circle is often called upon to assist other guilds in matters related to the afterlife.
++ The Order of the White Wand often works with the other guilds to provide aid in times of crisis.
++ The Inquisitors' Guild often works with the other guilds to ensure the safety and security of communities.
++ The Gathers' Guild often provides the other guilds with materials and logistical support.
++ The Combatants' Guild often works with the other guilds to provide security and protection.
