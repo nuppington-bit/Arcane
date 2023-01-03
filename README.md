@@ -6,11 +6,7 @@ Arcane is a concept for a text-based multiplayer RPG
 + See guilds.md
 
 ### Current types of magic: 
-+ Blue Magic (time and space, control over weather and the elements)
-+ Red Magic (healing, medicine)
-+ Green Magic (flora and fauna)
-+ Yellow Magic (energy)
-+ Purple Magic (shadow and undead)
++ See magic.md
 
 ### Classes and professions:
 WIP
