@@ -39,9 +39,12 @@ Multiple characters allowed per account with smooth, fast switching mechanisms
 + Narration system
 
 ## Concept:
-You can pick a guild, type of magic, class and profession.\
-You can choose to play without a guild. (no guild rules to abide, but no guild benefits either)\
-After you've set up your character, you can roam the world, interact with things and players.\
-Gain EXP by doing things.\
-Obtain modifiers through EXP. Modifiers can be sold to players.\
-Arcane aims for a high level of customization.
++ You can pick a guild, type of magic, class and profession.
++ You can choose to play without a guild. (no guild rules to abide, but no guild benefits either)
++ After you've set up your character, you can roam the world, interact with things and players.
++ Gain EXP by doing things.
++ Obtain modifiers through EXP. Modifiers can be sold to players.
++ Arcane aims for a high level of customization.
+
+## Contributing
+I am currently accepting item suggestions for inclusion in the concept. For more information, please refer to item_template.md
