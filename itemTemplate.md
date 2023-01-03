@@ -1,7 +1,7 @@
 # Template for creating items
 
 Please use the JSON format when suggesting items and follow the structure outlined in this template.
-Once you have completed your item, place the JSON file in the items directory and open a pull request to submit it for review.
+Once you have completed your item, place the JSON file in the corresponding directory in /items and open a pull request to submit it for review. Feel free to create a new directory for the item type if it doesn't exist yet.
 
 ```json
 {
