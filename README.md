@@ -47,4 +47,4 @@ Multiple characters allowed per account with smooth, fast switching mechanisms
 + Arcane aims for a high level of customization.
 
 ## Contributing
-I am currently accepting item suggestions for inclusion in the concept. For more information, please refer to item_template.md
+I am currently accepting item suggestions for inclusion in the concept. For more information, please refer to itemTemplate.md
