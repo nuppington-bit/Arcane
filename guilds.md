@@ -171,11 +171,4 @@ This guild is dedicated to the study and practice of alchemy, the art of transmu
 
 # Connections and relationships between guilds
 
-+ The Arcane Order often provides guidance to other guilds.
-+ The Circle of the Elements often works with the Arcane Order to defend against threats.
-+ The Artificers' Guild works with the Enchanters' Guild to imbue its creations with special powers.
-+ The Necromancers' Circle is often called upon to assist other guilds in matters related to the afterlife.
-+ The Order of the White Wand often works with the other guilds to provide aid in times of crisis.
-+ The Inquisitors' Guild often works with the other guilds to ensure the safety and security of communities.
-+ The Gathers' Guild often provides the other guilds with materials and logistical support.
-+ The Combatants' Guild often works with the other guilds to provide security and protection.
+WIP
