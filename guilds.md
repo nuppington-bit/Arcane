@@ -152,6 +152,22 @@ This guild is made up of skilled warriors who specialize in various forms of com
 + A set of advanced combat training resources and access to a wide range of combat techniques and strategies.
 <br><br><br>
 
+## The Elixirists' League
+This guild is dedicated to the study and practice of alchemy, the art of transmuting base metals into gold and creating potions, remedies, and tinctures with magical properties. Members of this guild are skilled in the creation of a wide range of alchemical and medicinal products, including potions, remedies, tinctures, and elixirs. They are also proficient in the use of alchemical techniques for various purposes. The guild is highly respected for its contributions to the field of alchemy and medicinal knowledge, and its members are often sought out for their expertise.
+
+#### Stat values
++ Intelligence: Very High
++ Wisdom: High
++ Dexterity: High
++ Creativity: High
++ Endurance: Moderate
++ Perception: High
+
+#### Guild benefits
++ The ability to create custom alchemical and medicinal products, as well as discounts on alchemical and medicinal supplies and equipment.
+<br><br><br>
+
+
 
 # Connections and relationships between guilds
 
