@@ -120,7 +120,7 @@ This guild is a group of knights and squires who are trained in the use of magic
 
 
 ## The Gathers' Guild:
-This guild is made up of skilled hunters, foragers, and collectors who are responsible for gathering a wide variety of materials and resources. Members of the Gathers' Guild are known for their knowledge of the natural world and their ability to locate and extract valuable materials from the environment. In addition to gathering raw materials, the Gathers' Guild also provides logistical support, such as transportation and storage, to other guilds and organizations.
+This guild is made up of skilled hunters, foragers, and collectors who are responsible for gathering a wide variety of materials and resources. Members of the Gathers' Guild are known for their knowledge of the natural world and their ability to locate and extract valuable materials from the environment. In addition to gathering raw materials, the Gathers' Guild also provides logistical support, such as transportation and storage, to other guilds and organizations and is responsible for the vast majority of trades and markets.
 
 #### Stat values
 + Intelligence: Very High
